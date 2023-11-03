@@ -2,6 +2,8 @@
 ## Objective:
 Create a responsive image gallery using React JS with the following features: reordering, deleting multiple images, and setting a feature image. The gallery should be visually appealing and provide a seamless user experience.
 
+## Task Live Link :- [Responsive Image Gallery](https://654506da1ff0ff4e27a2cec3--astonishing-tanuki-e58a90.netlify.app) 
+
 ## Task Requirements:
 1. **Gallery Layout:**
    - Implement a grid layout for the image gallery.
