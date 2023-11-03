@@ -1,19 +1,18 @@
 const images = [
   {
     id: 1,
-    thumbnail:
-      "https://raw.githubusercontent.com/almahmudsarker/React-image-Gallery-task/main/src/assets/images/image-1.webp",
+    thumbnail: "../src/assets/images/image-1.webp",
   },
-  { id: 2, thumbnail: "./assets/images/image-2.webp" },
-  { id: 3, thumbnail: "" },
-  { id: 4, thumbnail: "" },
-  { id: 5, thumbnail: "" },
-  { id: 6, thumbnail: "" },
-  { id: 7, thumbnail: "" },
-  { id: 8, thumbnail: "" },
-  { id: 9, thumbnail: "" },
-  { id: 10, thumbnail: "" },
-  { id: 11, thumbnail: "" },
+  { id: 2, thumbnail: "../src/assets/images/image-2.webp" },
+  { id: 3, thumbnail: "../src/assets/images/image-3.webp" },
+  { id: 4, thumbnail: "../src/assets/images/image-4.webp" },
+  { id: 5, thumbnail: "../src/assets/images/image-5.webp" },
+  { id: 6, thumbnail: "../src/assets/images/image-6.webp" },
+  { id: 7, thumbnail: "../src/assets/images/image-7.webp" },
+  { id: 8, thumbnail: "../src/assets/images/image-8.webp" },
+  { id: 9, thumbnail: "../src/assets/images/image-9.webp" },
+  { id: 10, thumbnail: "../src/assets/images/image-10.jpeg" },
+  { id: 11, thumbnail: "../src/assets/images/image-11.jpeg" },
 ];
 
 export default images;
